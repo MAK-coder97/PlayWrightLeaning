@@ -192,6 +192,22 @@ LearnPlaywrightBatch2x/
 │   ├── 69_Node_readline.js             # Node built-in `readline` (async)
 │   └── 70_prompt_sync.js               # `prompt-sync` npm package (sync)
 │
+├── Chapter_01_basics/                  📝 Personal practice & early files
+│   ├── 01_Basics.js                    # First console.log program
+│   ├── 02_JS.js                        # Variables & a simple loop
+│   ├── 03_JS_Verify_Setup.js           # Verify Node.js/OS/arch
+│   ├── 04_HotCode.js                   # JIT & "hot" code paths
+│   ├── 04_11_var_explained.js          # var deep dive (practice)
+│   ├── 04_12_logical_not_explained.js  # Logical NOT operator explained
+│   ├── 06_41.Ternary.js                # Ternary operator practice
+│   └── README.md                       # Chapter 1 notes
+│
+├── Hands on/                           🎯 Hands-on practice exercises
+│   ├── Leap.js                         # Leap year checker
+│   ├── Marks.js                        # Grade calculator
+│   ├── Max_2number_ternary.js          # Max of 2 numbers using ternary
+│   └── odd_even.js                     # Odd/Even checker
+│
 └── README.md                           👋 You are here
 ```
 
