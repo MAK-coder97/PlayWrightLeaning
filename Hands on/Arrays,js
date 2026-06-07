@@ -1,0 +1,25 @@
+// array is the backbone of test autoamtion 
+// push and pop functions 
+
+let fruits = []; // empty arrays 
+let scores2 = new Array(3);
+
+scores2[0] - 1;
+scores2[1] = 2;
+scores2[2] = 3;
+
+console.log(scores2);
+
+let numbers = new Array(100, 200, 300, 400);
+console.log(numbers);
+
+let test = Array.of(10, 20, 30, 40);
+
+console.log(test);
+
+let chars = Array.from("hello");
+console.log(chars);
+
+
+
+
