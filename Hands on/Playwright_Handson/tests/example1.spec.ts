@@ -4,4 +4,4 @@ test("verify that the title will be TTA Cart", async ({ page }) => {
     await page.goto('https://app.thetestingacademy.com/playwright/ttacart/')
     // await expect(page).toHaveTitle('TTA Cart')
 
-});
+}); 
